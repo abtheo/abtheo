@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Theo</h1>
-- 🔭 I’m currently working on [mljar-supervised: AutoML Pipelining](https://github.com/mljar/mljar-supervised)
+<h2 align="center">Hi 👋, I'm Theo</h2>
+- 🔭 I’m currently working on [mljar-supervised](https://github.com/mljar/mljar-supervised) : an Automated Machine Learning Pipeline library.
 
 - 🌱 I’m currently learning **Bayesian Networks & Causal Inference**
 
