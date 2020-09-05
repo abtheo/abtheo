@@ -1,8 +1,8 @@
 <h2 align="center">Hey, I'm Theo 😊</h2><hr\>
-- 🔭 I’m currently working on <a style="display: inline-block;" href="https://github.com/mljar/mljar-supervised">MLjar</a>: 
-  <br\>an Automated Machine Learning Pipeline library for Python.
-<hr\>
 <ul>
+<li> 🔭 I’m currently working on <a style="display: inline-block;" href="https://github.com/mljar/mljar-supervised">MLjar</a>: an Automated Machine Learning Pipeline library for Python.</li>
+<hr\>
+
   <li> 🌱 I’m currently learning about <b>Bayesian Networks & Causal Inference</b></li>
 <hr\>
   <li>💬 Ask me about <b>Artificial Intelligence</b></li>
