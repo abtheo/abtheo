@@ -5,7 +5,7 @@
   <li> 🌱 I’m currently learning about <b>Bayesian Networks & Causal Inference</b></li>
   <li>💬 Ask me about <b>Artificial Intelligence</b></li>
   <li> 📫 Reach me at <b>c.theo.kent@gmail.com</b></li>
-
+<!---
 </ul>
 <h2></h2>
 <div align="center" style="display:flex;justify-content: center;pointer-events:none;" >
@@ -13,3 +13,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/theo-kent-20b894170/" target="blank"><img align="top" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/theo-kent-20b894170/" height="40" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/abtheo" target="blank"><img align="top" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/abtheo" height="40" width="40" /></a>
 </div>
+-->
