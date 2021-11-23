@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Theo 😊</h2>
 <ul>
-  <li> 🔭 I’m currently working on <a style="display: inline-block;" href="https://github.com/mljar/NaturalComputing">Natural Computing</a>: 
-    Genetic Algorithms, Particle Swarm Intelligence & Cellular Automata.</li>
+  <li> 🔭 I’m currently contributing to <a style="display: inline-block;" href="https://otterclam.finance/">OtterClam Finance</a>, a Cryptocurrency Rebase Project operated under Descentralised Autonomous Organisation.
+    </li>
   <li> 🌱 I’m currently learning about <b>Bayesian Networks & Causal Inference</b></li>
   <li>💬 Ask me about <b>Artificial Intelligence</b></li>
   <li> 📫 Reach me at <b>c.theo.kent@gmail.com</b></li>
