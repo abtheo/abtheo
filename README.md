@@ -2,7 +2,7 @@
 <ul>
   <li> 🔭 I’m currently contributing to <a style="display: inline-block;" href="https://github.com/OtterClam/">OtterClam Finance</a>, a Cryptocurrency Rebase Project operated under Descentralised Autonomous Organisation.
     </li>
-  <li> 🌱 I’m currently learning about <b>Bayesian Networks & Causal Inference</b></li>
+  <li> 🌱 I’m currently learning <b>Web3, Solidity & Dune Analytics</b></li>
   <li>💬 Ask me about <b>Artificial Intelligence</b></li>
   <li> 📫 Reach me at <b>c.theo.kent@gmail.com</b></li>
 <!---
