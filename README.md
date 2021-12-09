@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Theo 😊</h2>
 <ul>
-  <li> 🔭 I’m currently contributing to <a style="display: inline-block;" href="https://github.com/OtterClam/">OtterClam Finance</a>, a Cryptocurrency Rebase Project operated under Descentralised Autonomous Organisation.
-    </li>
+  <li> 🔭 I’m currently contributing to <a style="display: inline-block;" href="https://github.com/OtterClam/">OtterClam Finance</a>, a Cryptocurrency Rebase Project operated under Descentralised Autonomous Organisation. Check out the <a style="display: inline-block;" href="https://dune.xyz/abtheo/OtterClam-Finance">OtterClam Dune Analytics Dashboard</a> I created!
+  </li>
   <li> 🌱 I’m currently learning <b>Web3, Solidity & Dune Analytics</b></li>
   <li>💬 Ask me about <b>Artificial Intelligence</b></li>
   <li> 📫 Reach me at <b>c.theo.kent@gmail.com</b></li>
